@@ -1,9 +1,18 @@
-.row{
-    background-color: #524B58;
-}
+
 h1{
     color: orange;
 }
 #head{
     text-align: center;
+    display: inline-block;
+}
+#jordan{
+    text-align: center;
+}
+#middle{
+    background-image: url("images/bg.jpg");
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
 }
